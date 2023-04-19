@@ -1,0 +1,17 @@
+﻿{
+  "#date_time": { "&current_time": [] },
+  "#uid": { "&left": [ "#id_sign", 4 ] },
+  "#date": {
+    "&left": [
+      { "&now": [] },
+      4
+    ]
+  },
+  "#type": {
+    "&if": [
+      { "#sub_type": 1 },
+      1,
+      2
+    ]
+  }
+}

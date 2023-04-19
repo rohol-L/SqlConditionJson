@@ -1,0 +1,8 @@
+﻿{
+  "#id": 100,
+  "#type": "SQL",
+  "#enable": true,
+  "#detail": null,
+  "#year": [ 2022, 2023 ],
+  "#parent_id": "#id"
+}

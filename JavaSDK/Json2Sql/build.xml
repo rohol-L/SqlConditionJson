@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="many2one" basedir="." default="many2oneJar">
+	<target name="many2oneJar" description="合并多个jar为一个">
+		<!--xxx.jar 为希望生成的jar的名称-->
+		<jar destfile="D:\temp\output.jar">
+			<!--zipgroupfileset的dir 指向存放待合并jar的目录-->
+			<zipgroupfileset dir="D:\temp\" includes="*.jar" /> 
+		</jar>
+	</target>
+</project>

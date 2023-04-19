@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Git_Csprjs\dpm\tools\JsonToSql\JsonToSqlWeb\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-04-07T08:38:51.8114717Z;True|2023-03-23T13:58:52.1652192+08:00;True|2023-03-22T10:03:05.6167052+08:00;True|2023-03-17T18:07:03.8082572+08:00;True|2023-03-17T18:05:35.0009857+08:00;False|2023-03-17T18:05:24.0484919+08:00;True|2023-03-17T17:47:03.6068381+08:00;True|2023-03-17T17:46:35.0231047+08:00;True|2023-03-17T17:45:31.2165445+08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

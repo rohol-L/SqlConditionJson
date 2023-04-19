@@ -1,0 +1,17 @@
+{
+  "name": "json_to_sql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type":"module",
+  "scripts": {
+    "test": "node ./test.js",
+    "build": "node ./esbuild.config.js"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "esbuild": "^0.17.16"
+  }
+}
